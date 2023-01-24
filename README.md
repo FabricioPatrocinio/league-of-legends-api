@@ -1,10 +1,19 @@
 # league-of-legends-api
 Uma api que vai consumir dados do League of Legends, a principio a ideia é obter dados de builds por personagens e apresentar em uma tela simplista.
+
 # Tecnologias que serão utilizadas
 - python com fastapi.
 - vuejs ou React
 - postgressql
 - redis
+
+# Organização do projeto
+O projeto será organizado da seguinte forma por pastas.
+├── backend
+├── frontend
+├── asserts (Onde ficarão os arquivos Data Dragon)
+└── README.md
+
 # link uteis para desenvolvimento
 Documentação da Api do lol e algumas informações basicas para iniciar o desenvolvimento, **necessário intendimento** tanto para frontend como backend. [League of Legends Documentação](https://developer.riotgames.com/docs/lol)
 
