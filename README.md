@@ -2,10 +2,10 @@
 Uma api que vai consumir dados do League of Legends, a principio a ideia é obter dados de builds por personagens e apresentar em uma tela simplista.
 
 # Tecnologias que serão utilizadas
-- python com fastapi.
-- vuejs ou React
-- postgressql
-- redis
+- Python com fastapi
+- JavaScript com VueJS ou React
+- Postgressql
+- Redis
 
 # Organização do projeto
 O projeto será organizado da seguinte forma por pastas.
