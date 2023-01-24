@@ -1,5 +1,5 @@
 # league-of-legends-api
-Uma api que vai consumir dados do League of Legends, a principio a ideia é obter dados de builds por personagens
+Uma api que vai consumir dados do League of Legends, a principio a ideia é obter dados de builds por personagens e apresentar em uma tela simplista.
 # Tecnologias que serão utilizadas
 - python com fastapi.
 - vuejs ou React
